@@ -1,15 +1,15 @@
 Facial Expression Recognition
 
 Personal Detail:
-Name : Hasnain ullah
-Section :03
-Email : 4488hassu@gmail.com
-GithHub profile : https://github.com/Hassu4488
+Name: Hasnain ullah
+Section:03
+Email: 4488hassu@gmail.com
+GitHub profile: https://github.com/Hassu4488
 
 Introduction:
 
-There are some things which were very easy for humans; on the other hand, it is quite difficult for a machine. Just like to judge the emotions of a person are very easy for humans but, the machine needs human efforts to process this task. So for this purpose I have completed a project in last week, in which I made a model which is trained to judge the emotions from the faces of a person.
-This project is completed by using the technology “computer vision”, which is the branch of Artificial intelligence (AI). Computer vision involves in the development of algorithms and models which learns the useful information from the images and videos. Deep learning as the subfield of Artificial intelligence plays a vital role in computer vision tasks.
+Some things were very easy for humans; on the other hand, it is quite difficult for a machine. Just like to judge the emotions of a person are very easy for humans but, the machine needs human efforts to process this task. So for this purpose, I completed a project last week, in which I made a model which is trained to judge the emotions from the faces of a person.
+This project is completed by using the technology “computer vision”, which is the branch of Artificial intelligence (AI). Computer vision involves the development of algorithms and models which learns the useful information from the images and videos. Deep learning as the subfield of Artificial intelligence plays a vital role in computer vision tasks.
 So far, there are many programming languages of coding like., Java script but I choose python as programming language for my project because of its built in libraries which provided me the easy path to complete my facial expression recognition model.
 
 
